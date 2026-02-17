@@ -9,6 +9,5 @@ This project detects faces, tracks key landmarks, and provides visual feedback o
 - Real-time head/face detection using Face Mesh.
 - Tracks specific landmarks (e.g., forehead, nose tip).
 - Draws target points, crosshairs, and coordinates for visualization.
-- Detects multiple faces at once (up to 5).
 - Optional hand gesture detection integrated via HandTrackingModule.
 - FPS counter for performance monitoring.
